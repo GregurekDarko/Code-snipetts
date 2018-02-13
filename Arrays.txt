@@ -1,0 +1,13 @@
+Creating String Array    -> String [] words = new String[10];
+
+
+Creating Array List      ->  ArrayList<String> musicLibrary = new ArrayList<String>();
+Adding                   ->  musicLibrary.add("Yellow Submarine");
+Add with specific index  ->  musicLibrary.add(0, "Blue Suede Shoes");
+Access elements          ->  musicLibrary.get(0);
+Remove elements          ->  musicLibrary.remove(0);  or  -
+>                        ->  musicLibrary.remove("Blue Suede Shoes");
+
+
+https://developer.android.com/reference/java/util/ArrayList.html 
+https://developer.android.com/reference/java/util/List.html
