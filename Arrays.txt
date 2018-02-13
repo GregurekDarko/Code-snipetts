@@ -11,3 +11,6 @@ Remove elements          ->  musicLibrary.remove(0);  or  -
 
 https://developer.android.com/reference/java/util/ArrayList.html 
 https://developer.android.com/reference/java/util/List.html
+
+Good article
+https://beginnersbook.com/2013/12/java-arraylist/
